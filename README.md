@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 #### My Stats
 
-![Eko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekoapriliyani&show_icons=true&theme=radical&v=1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ekoapriliyani&theme=radical)](https://git.io/streak-stats)
 
 ###
 
