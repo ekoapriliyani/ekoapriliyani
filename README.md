@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 #### My Stats
 
-![Eko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekoapriliyani&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ekoapriliyani&show_icons=true&theme=radical" alt="Eko's GitHub stats" />
 
 ###
 
